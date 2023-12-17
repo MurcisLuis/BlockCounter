@@ -1,6 +1,9 @@
 # BlockCounter
 Extension placeholder api to count blocks in a region whit worldguard
 
+[Download the latest release of BlockCounter here](https://github.com/MurcisLuis/BlockCounter/releases)
+
+
 ## Available Placeholders
 
 %blockcounter\_{worldName}\_{regionName}\_{material}%
