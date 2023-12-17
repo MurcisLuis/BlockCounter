@@ -1,5 +1,5 @@
 # BlockCounter
-Extension placeholder api to count blocks in a region whit worldguard
+Elevate your Minecraft world management with the new PlaceholderAPI extension: BlockCounter. 🌟 Seamlessly integrates with WorldGuard to precisely count blocks within any defined region with ease. 🏰✨ Enhance your gameplay experience and resource control to new heights
 
 [Download the latest release of BlockCounter here](https://github.com/MurcisLuis/BlockCounter/releases)
 
