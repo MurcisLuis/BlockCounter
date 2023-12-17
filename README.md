@@ -3,7 +3,8 @@ Extension placeholder api to count blocks in a region whit worldguard
 
 ## Available Placeholders
 
-%blockcounter_{worldName}_{regionName}_{material}%
+%blockcounter\_<worldName>\_<regionName>\_<material>%
+
 
 ## Placeholder Format
 - `worldName`: Name of the world on your Minecraft server.
